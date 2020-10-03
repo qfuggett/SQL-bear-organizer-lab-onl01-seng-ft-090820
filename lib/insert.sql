@@ -1,1 +1,1 @@
-INSERT in
+INSERT INTO bears (name)
